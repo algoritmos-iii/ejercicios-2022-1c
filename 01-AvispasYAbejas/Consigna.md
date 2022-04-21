@@ -28,7 +28,7 @@ Deben importar el código inicial Ejercicio1-Avispas-y-Abejas-Episodio2.CodigoIn
 
 Vayan haciendo pasar las pruebas según el orden estipulado en su numeración. 
 
-#Preguntas para después de hacer el ejercicio
+# Preguntas para después de hacer el ejercicio
 
 A continuación les planteamos algunas cuestiones para pensar y contestar.
 Las preguntas van a ser evaluadas también.
