@@ -16,7 +16,8 @@ Nuestro trabajo es modelar a la avispa Polly que se comporte de forma similar a 
 ## Trascender 
 
 Las avispas pertenecen a una línea genética, la cual es legada a sus huevos. Debemos modificar nuestro modelo para que tanto Oriana, Ornella y Polly al poner huevos estos tengan las firmas genéticas de su progenitora. Un dato importante, es que Oriana y Ornella tienen la misma firma genética, sin embargo Polly tiene una firma diferente.
-Lara la avispa ladrona
+
+## Lara la avispa ladrona
 
 El experto en el dominio nos contó que existen avispas que en vez de cazar orugas o polillas, le roba el nido a otra avispa y lo reemplaza por el suyo. Debemos modelar a la Avispa Lara que al intentar reproducirse proceda de esta forma. Lara tiene una firma genética diferente a las de las avispas anteriores.
 
